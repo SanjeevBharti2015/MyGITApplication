@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    strTestName = @"This is Sanjeev Bharti";
+//    strTestName = @"This is Sanjeev Bharti";
     
     NSLog(@"I am working too hard to learn github");
     
